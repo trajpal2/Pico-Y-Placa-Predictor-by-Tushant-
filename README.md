@@ -1,2 +1,5 @@
-# Pico-Y-Placa-Predictor-by-Tushant-
+# Pico-Y-Placa-Predictor-by-Tushant
 This is the pico y placa predictor used for fetching the details of vehicle to check if the car should be on road or not. I have made this Pico y Placa Predictor using the Visual Studio on ASP.NET programming and with the help of Object Oriented Code at the back end.
+In this Pico y Placa Predictr I have used the rules adopted by Quito, Ecuador government used the rules. 
+The rules which the government used are as fllws: - The vehicle Licence Plate number ending with 1 and 2 should not be in rad on monday from the time 07:00 till 09:30. and 16:00 till 19:30. Similarly on another days on the same time vehicles of number Licence plate ending with 3 and 4 should not be on road on Tuesday. Follwing the same sequence 5 and 6 number should not be on road on Wednesday, 7 and 8 ending number should not be on road on Thursday and at last Licence plate numbers ending with 9 and 0 vehicles should not be on road on Friday.
+By using this information, I have made the simple application as to share my clean and simple understanding work. 
